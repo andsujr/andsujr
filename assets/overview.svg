@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="162" viewBox="0 0 900 162" role="img" aria-labelledby="title" xml:space="preserve">
+  <title id="title">Dados públicos: 5 contribuições visíveis, 2 repositórios públicos e início no GitHub em 2023. Snapshot de 27/10/2026.</title>
+  <rect x="1" y="1" width="898" height="160" rx="14" fill="#0d1117" stroke="#30363d" />
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="25" y="28" fill="#7ee787" font-size="11" font-weight="600" font-family="ui-monospace, 'Liberation Mono', Consolas, monospace">PUBLIC SNAPSHOT</text>
+    <text x="25" y="83" fill="#e6edf3" font-size="36" font-weight="650">5</text>
+    <text x="25" y="109" fill="#8b949e" font-size="13">contribuições visíveis</text>
+    <path d="M305 48V111" stroke="#30363d" />
+    <text x="325" y="83" fill="#e6edf3" font-size="36" font-weight="650">2</text>
+    <text x="325" y="109" fill="#8b949e" font-size="13">repositórios públicos</text>
+    <path d="M605 48V111" stroke="#30363d" />
+    <text x="625" y="83" fill="#e6edf3" font-size="36" font-weight="650">2023</text>
+    <text x="625" y="109" fill="#8b949e" font-size="13">início no GitHub</text>
+    <text x="25" y="143" fill="#8b949e" font-size="10" font-family="ui-monospace, 'Liberation Mono', Consolas, monospace">Retrato público · 27/10/2026 · 04:55 UTC</text>
+  </g>
+</svg>

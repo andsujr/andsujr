@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="240" viewBox="0 0 450 240" role="img" aria-labelledby="title description" xml:space="preserve">
+  <title id="title">Anderson Alves — versão mobile</title>
+  <desc id="description">TypeScript, Java, React e React Native. @andsujr, GitHub desde 2023.</desc>
+  <rect x="1" y="1" width="448" height="238" rx="14" fill="#0d1117" stroke="#30363d" />
+  <rect x="1" y="1" width="448" height="35" rx="14" fill="#161b22" />
+  <rect x="1" y="20" width="448" height="15" fill="#161b22" />
+  <circle cx="20" cy="18" r="4" fill="#ff5f57" />
+  <circle cx="37" cy="18" r="4" fill="#febc2e" />
+  <circle cx="54" cy="18" r="4" fill="#28c840" />
+  <g font-family="ui-monospace, 'Liberation Mono', Consolas, monospace">
+    <text x="22" y="70" fill="#7ee787" font-size="13">andsujr@github:~$ whoami</text>
+    <text x="20" y="117" fill="#e6edf3" font-size="31" font-weight="650">Anderson Alves</text>
+    <text x="22" y="151" fill="#8b949e" font-size="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">Desenvolvimento de software</text>
+    <text x="22" y="187" fill="#79c0ff" font-size="12">TypeScript / Java / React / React Native</text>
+    <text x="22" y="219" fill="#8b949e" font-size="11">@andsujr · GitHub desde 2023</text>
+  </g>
+</svg>
